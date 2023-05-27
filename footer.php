@@ -1,0 +1,1 @@
+<div class="footer">MANJUNATH Copyright@<?php echo date("Y");?></div>
